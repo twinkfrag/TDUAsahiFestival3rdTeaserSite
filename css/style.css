@@ -5,3 +5,8 @@
     -webkit-animation-duration: 2s;
     animation-duration: 2s;
 }
+
+.info-icon{
+    width: 16px;
+    height: 16px;
+}
