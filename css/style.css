@@ -10,3 +10,31 @@
     width: 16px;
     height: 16px;
 }
+
+.line-color {
+	font-size: large;
+}
+
+.joban {
+	color: rgb(2, 169, 86);
+}
+
+.hibiya {
+	color: rgb(145, 164, 174);
+}
+
+.chiyoda {
+	color: rgb(1, 142, 60);
+}
+
+.isesaki {
+	color: rgb(15, 97, 187);
+}
+
+.tx {
+	color: rgb(255, 0, 1);
+}
+
+.keisei {
+	color: rgb(0, 80, 160);
+}
